@@ -47,3 +47,24 @@
 .container {
     margin: 4% auto;
 }
+footer{
+    background-color: #5E4485;
+    color: #fff;
+    padding: 3%;
+    width: 100%;
+
+}
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+
+}
+.fa:hover{
+    color: grey;
+}
+#last{
+    font-size: 100px;
+    color: white;
+    padding: 20px auto;
+}
