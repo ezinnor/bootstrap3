@@ -1,5 +1,19 @@
-body{
-    background: url("images/background.jpg");
-    background-attachment: fixed;
-    
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #5E4485;
+    color: #FFF;
+    border: 0;
+    font-size: 1.2em;
+    padding: 1% 0;
+}
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:hover,
+.navbar-inverse .navbar-nav .active a:active,
+.navbar-inverse .navbar-nav .active a:focus{
+    color: #FFf;
+    background-color: #5E4485;
+}
+.navbar-inverse .navbar-nav li a {
+    color: #d5d5d5;
 }
