@@ -36,4 +36,14 @@
     .carousel-caption {
         display: none;
     }
+    #icon{
+        max-width: 150px;
+    }
+}
+#icon{
+    max-width: 300px;
+    margin: 1% auto;
+}
+.container {
+    margin: 4% auto;
 }
